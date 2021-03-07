@@ -1,0 +1,22 @@
+{
+    "name": "cos-versioning",
+    "version": "1.0.0",
+    "description": "Enable versioning feature on IBM Cloud Object Storage with IBM Cloud Functions",
+    "main": "handler.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/IBM/cos-versioning.git"
+    },
+    "author": "Victor Shinya <vshinya@br.ibm.com>",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/IBM/cos-versioning/issues"
+    },
+    "homepage": "https://github.com/IBM/cos-versioning#readme",
+    "dependencies": {
+        "ibm-cos-sdk": "^1.9.0"
+    }
+}
